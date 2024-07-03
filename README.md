@@ -13,7 +13,23 @@
 
 - 💬 Ask me about **PowerBi, SQL, Python, Excel**
 
-- 📫 How to reach me **lakshmivaraprasadpalagani@gmail.com**
+- ⚡ Fun fact: I have a keen eye for details :)
+
+- 📫 To reach me: 
+
+    ➡️ Gmail    : lakshmivaraprasadpalagani@gmail.com
+  
+    ➡️ Linkedin :https://www.linkedin.com/in/lvaraprasad/
+  
+💻 Tech Skills:
+
+💠Python
+
+💠Microsoft Power Bi
+
+💠Microsoft Excel
+
+💠SQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
