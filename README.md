@@ -1,4 +1,4 @@
-![logo](https://github.com/LakshmiVaraPrasad-P/LakshmiVaraPrasad-P/assets/112508852/8ff28714-3cd9-4708-9fd5-c561a8f6c4a7)
+![logo](https://github.com/LakshmiVaraPrasad-P/LakshmiVaraPrasad-P/assets/112508852/a38dd5a0-2d7f-4baa-86de-a3f703be7719)
 
 <h1 align="center">Hello 👋, I'm Lakshmi Vara Prasad Palagani</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
